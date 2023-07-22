@@ -1,1 +1,4 @@
 HI
+
+git push 
+git origin
